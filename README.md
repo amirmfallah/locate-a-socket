@@ -12,7 +12,7 @@
 
 ## Demo
 
-https://github.com/amirmfallah/locate-a-socket/blob/95f40cf27bbaddfd085efb980c7b6f745e1eb866/docs/demo.mp4
+https://raw.githubusercontent.com/amirmfallah/locate-a-socket/95f40cf27bbaddfd085efb980c7b6f745e1eb866/docs/demo.mp4
 
 ## How to run the app
 
